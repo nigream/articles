@@ -1,0 +1,10 @@
+- <font style="font-weight:bold;font-size:17px;">技术文章</font>
+- <font style="font-weight:bold;font-size:17px;">观后感</font>
+  - 书籍
+  - 影视剧
+- <font style="font-weight:bold;font-size:17px;">随笔</font>
+  - 近期动态
+  - 琐碎思考
+- <font style="font-weight:bold;font-size:17px;">杂谈</font>
+- <font style="font-weight:bold;font-size:17px;">小说</font>
+- <font style="font-weight:bold;font-size:17px;">诗词</font>
